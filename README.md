@@ -1,6 +1,6 @@
-Army version of [4194304](http://aarextiaokhiao.github.io/Aarex2048/4194304.html/) game
+Army version of [2147483648](http://cyberzhg.github.io/2048/) game
 ===================================================================
 
-Play here: http://thereal2048.github.io/4194304-ARMY/
+Play here: http://thereal23.github.io/2147483648-ARMY/
 
-[![4194304 ARMY](https://pbs.twimg.com/media/Bj6LMCtCAAAogbd.png:large)](http://git.io/army)
+[![2147483648 ARMY](https://pbs.twimg.com/media/Bj6LMCtCAAAogbd.png:large)](http://git.io/army)
